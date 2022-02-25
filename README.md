@@ -2,7 +2,7 @@
 
 <h1 align="center">darkside</h1>
 
-![](https://github.com/Spyware0/spynel/blob/main/uteis/m.png)
+![](https://user-images.githubusercontent.com/98004421/155645666-2e6b1b72-4f42-477f-ac22-2f04f5fb6e4e.jpg)
 
 Um pequeno painel com consultas de:
 - [x] IP
@@ -26,12 +26,11 @@ pip install requests
 <h2 align="center">INSTALAÇÃO E EXECUÇÃO 📥</h2>
 
 ```shell script
-git clone https://github.com/Spyware0/spynel
+git clone https://github.com/tekashiZiinMaKer/darkside
 cd spynel
 python main.py
 ```
 
-Para mais informações, acesse [Whatsapp](http://wa.me/559885267746)!
 
 <b><i>Deixe sua estrelinha ;)</i></b>
 
