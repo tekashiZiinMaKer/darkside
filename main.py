@@ -6,7 +6,7 @@ except:
 from random import choice
 from consus import *
 
-banner = open('uteis/banner.txt').read()
+banner = open('usuários/banner.txt').read()
 cores = verm, verd, amar, azul, cian, roxo
 
 while True:
