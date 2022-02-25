@@ -27,7 +27,7 @@ pip install requests
 
 ```shell script
 git clone https://github.com/tekashiZiinMaKer/darkside
-cd spynel
+cd darkside
 python main.py
 ```
 
