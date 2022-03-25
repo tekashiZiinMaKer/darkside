@@ -14,7 +14,7 @@ while True:
 	c = choice(cores)
 	print(c+banner+f)
 	try:
-		opc = input(f'{n}[ {c}1{n} ] > {c}IP{n} ({verd}ON{n})\n[ {c}2{n} ] > {c}CEP{n} ({verd}ON{n})\n[ {c}3{n} ] > {c}PLACA{n} ({verm}off{n})\n[ {c}4{n} ] > {c}CNPJ{n} ({verd}ON{n})\n[ {c}5{n} ] > {c}DDD{n} ({verd}ON{n})\n\n[ {c}S{n} ] > {c}SAIR{n}\n[ {c}A{n} ] > {c}ATUALIZAR\n\n>>>{n} ').strip().lower()[0]
+		opc = input(f'{n}[ {c}1{n} ] > {c}IP{n} ({verd}ON{n})\n[ {c}2{n} ] > {c}CEP{n} ({verd}ON{n})\n[ {c}3{n} ] > {c}CNPJ{n} ({verd}ON{n})\n[ {c}5{n} ] > {c}DDD{n} ({verd}ON{n})\n\n[ {c}S{n} ] > {c}SAIR{n}\n[ {c}A{n} ] > {c}ATUALIZAR\n\n>>>{n} ').strip().lower()[0]
 	except: continue
 
 	match opc:
