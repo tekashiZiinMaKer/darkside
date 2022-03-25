@@ -51,7 +51,7 @@ while True:
 		case '3':
 			cls()
 			try:
-				plc = input('OBS: a api de carros não está funcionando mas tente para ter certeza.\n(ex: hqc5669)\nPLACA: ').strip().lower()
+				plc = input('OBS:api de carros não está funcionando mas tente para ter certeza. Logo logo estará funcionando normalmente!\n(ex: hqc5669)\nPLACA: ').strip().lower()
 			except: continue
 			placa(plc)
 			ent()
