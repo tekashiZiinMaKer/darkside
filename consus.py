@@ -15,12 +15,12 @@ def cls():
 
 
 def ent():
-	input('\nenter para continuar')
+	input('\({verd}<{n})———— press enter ————({verd}>{n})')
 
 
 def ip(ip='', option=''):
     match option:
-        case '1':
+        case '1':{c}IP{n} ({verd}ON{n})\n[ {c}2{n} ]
             req = get(f'https://ipwhois.app/json/{ip}').json()
             for k, v in req.items():
                 print(f'{verd}{k}{n}: {v}')
