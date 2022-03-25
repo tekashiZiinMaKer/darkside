@@ -15,7 +15,7 @@ def cls():
 
 
 def ent():
-	input('\({verd}<{n})———— press enter ————({verd}>{n})')
+	input('\<———— press enter ————>')
 
 
 def ip(ip='', option=''):
