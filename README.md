@@ -7,7 +7,7 @@
 Um pequeno painel com consultas de:
 - [x] IP
 - [x] CEP
-- [x] PLACA
+- [ ] PLACA
 - [x] CNPJ
 - [x] DDD
 
