@@ -51,7 +51,7 @@ while True:
 		case '3':
 			cls()
 			try:
-				plc = input('OBS: a api de carros tem limite de consulta por tempo,\nentão espere um pouco caso dê "limite de consultas atingido"\n(ex: hqc5669)\nPLACA: ').strip().lower()
+				plc = input('OBS: a api de carros não está funcionando mas tente para ter certeza.\n(ex: hqc5669)\nPLACA: ').strip().lower()
 			except: continue
 			placa(plc)
 			ent()
