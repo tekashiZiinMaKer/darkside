@@ -10,6 +10,6 @@ https://api.postmon.com.br/v1/cep/{cep}
 
 https://www.receitaws.com.br/v1/cnpj/{cnpj} 
 
-https://apiplacas.com.br/consulta.php/{placa} 
+https://apicarros.com/v2/consultas/placa/key/{placa} 
 
 https://brasilapi.com.br/api/ddd/v1/{ddd}
