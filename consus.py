@@ -55,7 +55,7 @@ def cep(cep='', option=''):
 
 
 def placa(plc=''):
-    req = get(f'https://cidadao.sinesp.gov.br/sinesp-cidadao/mobile/consultar-placa/v4/{placa}', verify=False).json()
+    req = get(f'https://apicarros.com/v1/consulta/{placa}', verify=False).json()
     co = 0
     for k, v in req.items():
         if co == 0: cls()
